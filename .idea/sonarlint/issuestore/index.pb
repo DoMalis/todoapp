@@ -1,0 +1,25 @@
+
+e
+5app/src/main/java/pl/edu/pb/zadanie3todoapp/Task.java,1\3\13306aa03a54a466957a7459aaef861ef0c290de
+x
+Happ/src/main/java/pl/edu/pb/zadanie3todoapp/SingleFragmentAbstracct.java,1\f\1fda6969cdfbf9e361767e0b94edb7d04fb06217
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+m
+=app/src/main/java/pl/edu/pb/zadanie3todoapp/TaskFragment.java,0\b\0b3430f6d10207150e068040211c13b93619f8af
+m
+=app/src/main/java/pl/edu/pb/zadanie3todoapp/MainActivity.java,d\e\de0b8905b301021753eff3839fc45fa436c9bc4f
+l
+<app/src/main/java/pl/edu/pb/zadanie3todoapp/TaskStorage.java,0\4\045978214da350602cab1a00b1fd508c81d04913
+r
+Bapp/src/main/java/pl/edu/pb/zadanie3todoapp/TaskListActivitiy.java,0\9\095e5f1adc11c61f610895af2f7dd34c7b7103ed
+q
+Aapp/src/main/java/pl/edu/pb/zadanie3todoapp/TaskListFragment.java,e\a\ead9a701009292912d51fd9e27184a74d0c1e818
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
